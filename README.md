@@ -27,6 +27,8 @@ I’m currently working on [Telco Churn Dataset](https://github.com/jrharden77/T
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.upwork.com/freelancers/joshuaharden" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/129/950/png-clipart-upwork-fiverr-freelancer-job-mountain-view-others-text-service.png" alt="joshuaharden" height="80" width="80" /></a>
+<p align="left">
 <a href="https://kaggle.com/joshuaharden7860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joshuaharden7860" height="30" width="40" /></a>
 </p>
 
